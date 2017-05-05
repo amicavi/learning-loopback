@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "coffeShops": {
+    "host": "127.0.0.1",
+    "port": 27017,
+    "url": "demo.strongloop.com",
+    "database": "demo",
+    "password": "123",
+    "name": "coffeShops",
+    "user": "pat",
+    "connector": "mongodb"
+  }
+}
